@@ -1,0 +1,10 @@
+{
+	"name": "mpplus",
+	"description": "An experimental API built on std.concurrency.",
+	"copyright": "Copyright (c) 2015, Ryuichi OHORI",
+	"license": "Unlicense",
+	"authors": ["Ryuichi OHORI"],
+	"dependencies":
+	{
+	}
+}
